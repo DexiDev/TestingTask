@@ -16,5 +16,48 @@ MonoBehaviour:
   deleteDllAfterBuilds: 1
   AutomateForAllAOTPlatforms: 1
   automateForPlatforms: 0900000014000000
-  lastScan: 0
-  supportSerializedTypes: []
+  lastScan: 638567414497908030
+  supportSerializedTypes:
+  - TypeName: Game.Characters.Fields.Stats.DamagePowerField, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Game.Characters.Fields.Stats.DamageTickRateField, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Single, mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Game.Characters.Fields.Stats.HealthField, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Game.Characters.Fields.Stats.HealthPerTickField, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Game.Characters.IAgent, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Game.Characters.IDamageable, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Game.Data.IDataField, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Int32, mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Game.Spaces.ISpawnBehaviour, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Game.Items.Fields.ItemField, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.List`1[[Game.Data.IDataField, Assembly-CSharp]],
+      mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Game.Spaces.SpawnBehaviour.RespawnQueueBehaviour, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.String, mscorlib
+    IsCustom: 0
+    Emit: 1
